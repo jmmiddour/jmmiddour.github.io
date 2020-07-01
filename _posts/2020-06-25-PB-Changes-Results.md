@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Changes Have Affected the Powerball Lottery in the USA.
+featured-img: https://raw.githubusercontent.com/jmmiddour/Images/master/PB%20Winning%20Percentages.png
 categories: Research-Project
 ---	
 
