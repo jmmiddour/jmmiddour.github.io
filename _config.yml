@@ -21,8 +21,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Completed Projects', 
-     - link:'/_posts/PB-Changes-Results}
+  - {name: 'Completed Projects', - link: '_posts/2020-06-25-PB-Changes-Results.md, - link: 'https://medium.com/@magical_satin_seal_239'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
   
