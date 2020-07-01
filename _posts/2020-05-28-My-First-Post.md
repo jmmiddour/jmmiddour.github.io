@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My First Post
+categories: [Sample, Example of my Talents]
 ---
 
 # My New Journey:
