@@ -21,8 +21,8 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Completed Projects', dropdown: 
-     - name: 'Powerball Changes', link: '_posts/2020-06-25-PB-Changes-Results}
+  - {name: 'Completed Projects', link: '/_posts,
+     name: 'Powerball Changes', link: '/PB-Changes-Results'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
   
