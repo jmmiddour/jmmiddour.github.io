@@ -21,14 +21,15 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Completed Projects', link: '/contact'}
+  - {name: 'Completed Projects', 
+     - link:'/_posts/PB-Changes-Results}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
   
 tagline: >
   Data Science student at Lambda School since May 4, 2020
 
-hero_img: assets/img/posts/97-977946_download-decorative-figure-color-paint-splash-vector-3d.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/97-977946_download-decorative-figure-color-paint-splash-vector-3d.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: joanne-middour@outlook.com # email for form submission
 
