@@ -4,7 +4,7 @@ author: jmmiddour # You :P
 description: > # Meta description of Homepage
   
 baseurl: "/index" # the subpath of your site, e.g. /blog
-url: "https://joannemiddour.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jmmiddour.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
