@@ -3,17 +3,18 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+There are multipl ways to contact me. The below form is the best way to contact me.
 
-Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
+### Send me a message:
 
-However, you can use free SaaS as a backend for forms, such as [Formspree](https://formspree.io/) to handle form submissions. Sleek has a configured form using formspree ready for you. All you have to do is change the email in `.config.yml`.
-
-Check the form below to see it in action!
-
-### Example Formspree contact form with validation and reCaptcha
-
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
+Fill in the form email me with any questions or concerns:
 
 {% include form.html %}
 
 {% include modal.html %}
+
+I post a majority of my projects on [Medium](https://medium.com/@magical_satin_seal_239 "Medium Profile")
+
+I also a [Facebook Page](https://www.facebook.com/JoJoMiddour "Twitter Profile")
+
+You can also find me on [Twitter](https://twitter.com/j_middour "Facebook Profile")
