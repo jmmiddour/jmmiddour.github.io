@@ -2,7 +2,6 @@
 layout: post
 title: How Changes Have Affected the Powerball Lottery in the USA.
 date: 2020-06-25
-comments: true
 categories: Research-Project
 ---	
 
