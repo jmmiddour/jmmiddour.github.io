@@ -3,7 +3,7 @@ title: Joanne Middour # your site title
 author: jmmiddour # You :P
 description: > # Meta description of Homepage
   
-baseurl: "/index" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jmmiddour.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
@@ -28,7 +28,7 @@ navigation: # Navigation links
 tagline: >
   Data Science student at Lambda School since May 4, 2020
 
-hero_img: 97-977946_download-decorative-figure-color-paint-splash-vector-3d.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/Color_splash_wide.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: joanne-middour@outlook.com # email for form submission
 
