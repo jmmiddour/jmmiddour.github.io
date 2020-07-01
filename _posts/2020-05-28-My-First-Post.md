@@ -12,7 +12,7 @@ There have been a lot of ups and downs so far.
 I want to share 2 of my current favorite ups:  
 - First one was getting a 3 on my very first graded assignment.  
 - The second was getting a 3 on my first sprint challenge.  
-  ![Grade on my first sprint challenge](/assets/img/1st Sprint Challenge Grade.jpg)
+  ![Grade on my first sprint challenge](_img/posts/1st Sprint Challenge Grade.jpg)
   
 I want to show just a few of the markdowns that I have learned to do:
 
