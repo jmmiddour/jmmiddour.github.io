@@ -9,11 +9,11 @@ ___
 
 Other ways of contacting me include:
 
-* I post a majority of my projects on [Medium](https://medium.com/@magical_satin_seal_239 "Medium Profile").
+* I post a majority of my projects on [Medium](https://medium.com/@magical_satin_seal_239 "Joanne Middour - Medium Profile").
 
-* I also have a [Facebook Page](https://www.facebook.com/JoJoMiddour "Twitter Profile").
+* I also have a [Facebook Page](https://www.facebook.com/JoJoMiddour "Joanne Middour - Facebook Profile").
 
-* You can find me on [Twitter](https://twitter.com/j_middour "Facebook Profile") as well.
+* You can find me on [Twitter](https://twitter.com/j_middour "Joanne Middour - Twitter Profile") as well.
 
 ___
 
