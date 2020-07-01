@@ -3,8 +3,8 @@ title: Joanne Middour # your site title
 author: jmmiddour # You :P
 description: > # Meta description of Homepage
   
-baseurl: "/jmmiddour.github.io" # the subpath of your site, e.g. /blog
-url: "https://github.com/jmmiddour" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://jmmiddour.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
