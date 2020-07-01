@@ -14,6 +14,7 @@ Other ways of contacting me include:
 * I also have a [Facebook Page](https://www.facebook.com/JoJoMiddour "Twitter Profile").
 
 * You can find me on [Twitter](https://twitter.com/j_middour "Facebook Profile") as well.
+
 ___
 
 
