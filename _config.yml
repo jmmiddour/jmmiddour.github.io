@@ -2,7 +2,7 @@
 title: Joanne Middour # your site title
 author: jmmiddour # You :P
 description: > # Meta description of Homepage
-  Data Science student at Lambda School since May 4, 2020
+  
 baseurl: "/jmmiddour.github.io" # the subpath of your site, e.g. /blog
 url: "https://github.com/jmmiddour/jmmiddour.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -26,9 +26,9 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
   
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Data Science student at Lambda School since May 4, 2020
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/97-977946_download-decorative-figure-color-paint-splash-vector-3d.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: joanne-middour@outlook.com # email for form submission
 
