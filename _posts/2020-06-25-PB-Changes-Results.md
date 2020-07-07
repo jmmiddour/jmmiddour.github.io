@@ -7,8 +7,7 @@ categories: Research-Project
 <div align="center">
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=iNOS-jh1Q9k" target="_blank"><img src="http://img.youtube.com/vi/iNOS-jh1Q9k/0.jpg" alt="IMAGE ALT TEXT HERE" width="560" height="315" border="1" /></a><br>
  <em>This is a video of the very first live Powerball drawing in the United States.</em>
-</div>
-
+</div><br>
 ---
 <div align="center">
  <h2>What does the history of the Powerball tell us? </h2>
@@ -17,7 +16,7 @@ categories: Research-Project
  I analyzed the data for the Powerball lottery in the USA since it has started on April 22, 1992, up to recent results dated May 30, 2020. Since there was not one data set that fit the criteria I was looking for, I had to combine multiple data sets to get the information I needed. You can find how and where I got my data at the bottom of this post under resources.
  <br><br>
  The main objective of this project is to find out if my findings of the actual results relate to the odds that are given for each change. I also will look at other aspects that have or may have changed as a result of each revision.<br><br></div>
-<img align="center" src="https://raw.githubusercontent.com/jmmiddour/Images/master/Powerball%20Changes.jpg" width=100%>
+<img align="center" src="https://raw.githubusercontent.com/jmmiddour/Images/master/Powerball%20Changes.jpg" width="100%">
 <div align="center"><em>Changes made to US Powerball Lottery according to <a href='https://en.wikipedia.org/wiki/Powerball'>Wikipedia</a>.</em></div>
 <div align="justify"><br>
  There have been many changes to the Powerball lottery over the past 28 years since it started. After doing some research I was surprised to see there have already been 8 changes since the start. I found a chart on <a href='https://en.wikipedia.org/wiki/Powerball'>Wikipedia</a>’s website that shows all the changes and what they were. I recreated that table here.	
@@ -27,7 +26,9 @@ categories: Research-Project
  When looking at the probability (odds) of getting a specific combination there is some complicated math involved. This is not a post about math equations so I will spare you the mathematical explanation. Long story, short… The probability of winning is calculated based on the winning combination divided by the number of possible combinations.<br></div>
  
  ---
-<h2>The percentage of winners vs odds of winning.<br></h2>
+<div align="center">
+ <h2>The percentage of winners vs odds of winning.<br></h2>
+</div>
 <img align="center" src="https://raw.githubusercontent.com/jmmiddour/Images/master/PB%20Winning%20Percentages.png">
 <div align="justify">
  It really is no surprise to see the probability of winning since the latest change is the lowest of them all. Since the change in 2015, the data shows the lowest percentage of winning (only 35 winners) compared to the number of games (486 games) that were played. Based on the information from <a href='https://en.wikipedia.org/wiki/Powerball'>Wikipedia</a>, that revision also has the lowest odds (1 out of 292,201,338) of winning.	
@@ -39,12 +40,16 @@ categories: Research-Project
  Another thing that caught my attention is the 2012 (16.67%)and 2014 (13.48%) change. They both have the same probability of winning, yet there is a large difference in the percentage of actual winnings. The games played during the 2012 revision was 210 with 35 winners, while the 2014 change only had 178 games and 24 winners.
  <br><br>
  Also the 2005 (11.71%) and 2009 (13.61%) change. During the 2009 revision, there was a lower probability (1 out of 195,249,054) of winning versus the 2005 revision with a 1 out of 146,107,961 probability, yet there was a higher percentage of winners during the 2009 revision.<br></div>
-<h3><br>What does this data mean?<br></h3>
+<div align="center">
+ <h3><br>What does this data mean?<br></h3>
+</div>
 <div align="justify"><br>
  In my opinion, based on the data I examined, the odds of winning the Powerball lottery can not accurately be predicted. The statistical probability of winning the lottery can only be based on the number of possible winning combinations, however, that can not accurately determine the number of winners that will actually win the jackpot. I conclude the number of actual winners compared to the number of games played does not directly relate to the statistical probability of winning.<br></div>
  
  ---
-<h2>How has the size of the Jackpot won changed?<br><br></h2>
+<div align="center">
+ <h2>How has the size of the Jackpot won changed?<br><br></h2>
+</div>
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/2955709" data-url="https://flo.uri.sh/visualisation/2955709/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div align="center"><em>You can interact with this bar chart race.<br>You can pause it and go to a specific date by using the slide bar.</em></div>
 <div align="justify"><br>
@@ -61,26 +66,34 @@ categories: Research-Project
  As you can see in the table above, most of the changes yielded approximately 83% — 88% for the number of games where there were no jackpot winners per revision. Then we look at the most recent change made in 2015 and you can see the percentage of games where the jackpot was not won, jumps into the low 90th percentile. This shows us that most likely the main reason for that one outlier (the largest jackpot) was based on the number of times that game had to roll over before there was a winner. I verified this by looking at the data for that time period.
  <br><br>
  For the jackpot of $1.586 Billion that was won on Jan 13, 2016, there were 19 rollovers before there was a jackpot winner. This is the largest number of times that the winning combination did not yield a winner.<br></div>
-<h3><br>What can we take away from this information?<br></h3>
+<div align="center">
+ <h3><br>What can we take away from this information?<br></h3>
+</div>
 <div align="justify"><br>
  The biggest change in the amount of the jackpot won was in 2015. The most probable reason for this is the increase in the number of possible winning combinations due to the increase in the number of white balls. That in turn increased the length of time the game went with no winners.<br></div>
  
  ---
-<h2>Now time to look at the top winning numbers!<br><br></h2>
+<div align="center">
+ <h2>Now time to look at the top winning numbers!<br><br></h2>
+</div>
 <iframe width="100%" height="500" frameborder="0" scrolling="yes" src="//plotly.com/~jmiddour/3.embed"></iframe>
 <div align="center"><em>You can interact with this graph. If you double click on the revision dates, you can isolate just the values for that time period. You can also single click on them to remove specific revisions. There is also an interactive toolbar in the top right corner with multiple actions you can perform with the graph.</em></div>
 <div align="justify"><br>
  Looking at the above graph you can see there is a large clustering of the amount of times the numbers were called between approximately 0–50 times. Then when you get into the higher occurrences it is more spread out. Those higher occurrences also happened during the same revision time period, which was the start of the Powerball.
 <br><br>
  Another thing that jumps out at me is the largest clustering is from approximately 0–40 for the winning numbers. The reason could be simply because during the earlier years of Powerball the total numbers only ranged from 45–49. Then in 2002–2014 the total numbers started to go up into the 50’s, starting at 53 up to 59. Then there was a dramatic jump during the 2015 revision where the total numbers went from 59 to 69.<br></div>
-<h3><br>How did the number of balls change winning?<br></h3>
+<div align="center">
+ <h3><br>How did the number of balls change winning?<br></h3>
+</div>
 <div align="justify"><br>
  Comparing the data, it is plain to see that by increasing the number of possible combinations, the odds of winning increases and the frequency of the numbers being drawn decreases.
  <br><br>
  Can you really predict what numbers will be drawn together? The short answer is no, but you could look at the top numbers and use those to give you a very small better chance at winning. Just keep in mind, no matter what, lottery games are gambling, totally random, and there is no sure-fire way to predict the winning combinations.<br></div>
  
  ---
-<h2>What about the participating states?<br></h2>
+<div align="center">
+ <h2>What about the participating states?<br></h2>
+</div>
 <div align="justify"><br>
  Another change that has taken effect over the years were the states that participate in the Powerball. Based on information from Wikipedia, this is a list of the states that participate in the Powerball and when they started:<br><br></div>
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrM4Vb9bzbpwdBpo?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
@@ -105,24 +118,32 @@ categories: Research-Project
 <li><strong><em>New Jersey</em></strong> joined on Jan 31, 2010, with 9 other states. That was just under 2 years before the revision when they became the top state in Jan 2012.<br></li>
 <li><strong><em>California</em></strong> joined on Apr 8, 2013. That is approximately 9 months before the change when they became the top state in Jan 2014.<br></li>
 <li><strong><em>New York</em></strong> joined on Jan 31, 2010, along with 9 other states. Over 5 years before the revision when they became the top state in Oct 2015, which is also the latest revision that Powerball has had.<br></li></ul></div>
-<h3><br>What does this information tell us?<br></h3>
+<div align="center">
+ <h3><br>What does this information tell us?<br></h3>
+</div>
 <div align="justify"><br>
  One thing that I wondered about was if there was any relationship between when a state joined the Powerball family and when they became the top winning state. Based on the information I analyzed, I do not see that there is any correlation between the two. Here again, there is no way to predict if a state will have more jackpot winners based on when they started participating. However, I do find this information rather interesting and something that I would like to further explore at another time.<br></div>
  
  ---
-<h2>Have you ever wondered if a winning number combination was ever repeated?<br></h2>
+<div align="center">
+ <h2>Have you ever wondered if a winning number combination was ever repeated?<br></h2>
+</div>
 <div align="justify"><br>
  This is actually a little off topic but I was curious about this myself. So I used the data I have gathered already to look at this out of pure curiosity. I was very surprised to find that YES, only one winning number combination has been repeated in the entire history of the Powerball.<br><br></div>
 <script src="https://gist.github.com/jmmiddour/0359ec5f57292418c95152678c617760.js"></script>
 <div align="center"><em>The only time a winning number combination repeated<br>from Apr. 22, 1992 to May 30, 2020</em></div>
 
 ---
-<h2>In Conclusion…<br></h2>
+<div align="center">
+ <h2>In Conclusion…<br></h2>
+ </div>
 <div align="justify"><br>
  Yes, there have been quite a few changes to the Powerball over the past 28 years. Do the revisions have any sort of relationship to the data we have looked at here? Mostly no. However, there are a couple that does show some sort of correlation. One would be the Jackpot amounts won compared to each change. The other would be the top winning numbers drawn per revision.
  <br><br>
  With that being said though, I would not use any of this information to try to predict what will happen next. If you look at all the previous changes, yes you see some relation but once you look at the most recent revision in 2015, all of that sort of goes out the window, so to speak.<br></div>
-<h3><br>The moral of this story…<br></h3>
+<div align="center">
+ <h3><br>The moral of this story…<br></h3>
+</div>
 <div align="justify"><br>
  Don’t quit your day job anytime soon. I know I will not be.
  <br><br>
