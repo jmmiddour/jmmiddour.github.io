@@ -15,7 +15,7 @@ alt="IMAGE ALT TEXT HERE" width="560" height="315" border="1" /></a></div>
  <br><br>
  The main objective of this project is to find out if my findings of the actual results relate to the odds that are given for each change. I also will look at other aspects that have or may have changed as a result of each revision.<br></div>
  ___
-<br><img align="center" src="https://raw.githubusercontent.com/jmmiddour/Images/master/Powerball%20Changes.jpg">
+<br><br><img align="center" src="https://raw.githubusercontent.com/jmmiddour/Images/master/Powerball%20Changes.jpg">
 <div align="center"><em>Changes made to US Powerball Lottery according to <a href='https://en.wikipedia.org/wiki/Powerball'>Wikipedia</a>.</em></div>
 <div align="justify"><br>
  There have been many changes to the Powerball lottery over the past 28 years since it started. After doing some research I was surprised to see there have already been 8 changes since the start. I found a chart on <a href='https://en.wikipedia.org/wiki/Powerball'>Wikipedia</a>’s website that shows all the changes and what they were. I recreated that table here.	
