@@ -4,10 +4,10 @@ title: How Changes Have Affected the Powerball Lottery in the USA.
 feature-img: PB Winning Percentages
 categories: Research-Project
 ---	
-<div align="center" 
+<p align="center" 
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=iNOS-jh1Q9k" target="_blank"><img src="http://img.youtube.com/vi/iNOS-jh1Q9k/0.jpg" alt="IMAGE ALT TEXT HERE" width="560" height="315" border="1" /></a><br>
     <em>This is a video of the very first live Powerball drawing in the United States.</em>
- </div>
+ </p>
 
 ---
 <h2>What does the history of the Powerball tell us? </h2>
