@@ -6,8 +6,8 @@ categories: Research-Project
 ---	
 <div align="center">
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=iNOS-jh1Q9k" target="_blank"><img src="http://img.youtube.com/vi/iNOS-jh1Q9k/0.jpg" alt="IMAGE ALT TEXT HERE" width="560" height="315" border="1" /></a><br>
- <em>This is a video of the very first live Powerball drawing in the United States.</em>
-</div><br>
+ <em>This is a video of the very first live Powerball drawing in the United States.</em><br>
+</div>
 ---
 <div align="center">
  <h2>What does the history of the Powerball tell us? </h2>
@@ -16,8 +16,7 @@ categories: Research-Project
  I analyzed the data for the Powerball lottery in the USA since it has started on April 22, 1992, up to recent results dated May 30, 2020. Since there was not one data set that fit the criteria I was looking for, I had to combine multiple data sets to get the information I needed. You can find how and where I got my data at the bottom of this post under resources.
  <br><br>
  The main objective of this project is to find out if my findings of the actual results relate to the odds that are given for each change. I also will look at other aspects that have or may have changed as a result of each revision.<br><br></div>
-<img align="center" src="https://raw.githubusercontent.com/jmmiddour/Images/master/Powerball%20Changes.jpg" width="100%">
-<div align="center"><em>Changes made to US Powerball Lottery according to <a href='https://en.wikipedia.org/wiki/Powerball'>Wikipedia</a>.</em></div>
+<img align="center" src="https://raw.githubusercontent.com/jmmiddour/Images/master/Powerball%20Changes.jpg" width="100%"><div align="center"><em>Changes made to US Powerball Lottery according to <a href='https://en.wikipedia.org/wiki/Powerball'>Wikipedia</a>.</em></div>
 <div align="justify"><br>
  There have been many changes to the Powerball lottery over the past 28 years since it started. After doing some research I was surprised to see there have already been 8 changes since the start. I found a chart on <a href='https://en.wikipedia.org/wiki/Powerball'>Wikipedia</a>’s website that shows all the changes and what they were. I recreated that table here.	
  <br><br>
