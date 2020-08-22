@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Changes Have Affected the Powerball Lottery in the USA.
-feature-img: https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/_img/posts/powerball_banner.jpg
+feature-img: powerball_banner
 categories: Research-Project
 ---	
 <div align="center">
