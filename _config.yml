@@ -21,9 +21,10 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-#   - {name: 'Completed Projects', link: '/_posts}
+  - {name: 'Completed Projects', link: '/_posts'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  - {name: 'Grades', link: '/my_grades'}
   
 tagline: >
   Data Science student at Lambda School since May 4, 2020
