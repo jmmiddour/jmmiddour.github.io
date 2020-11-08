@@ -7,7 +7,7 @@ categories: Research-Project, UFO, Space
 ### Based on real reported UFO sightings  
 
 
-![Image of UFO](https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/UFO.jpeg)  
+![Image of UFO](https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/UFO.jpg)  
 *Source for image: [Vecteezy](https://www.vecteezy.com/vector-art/1215226-ufo-realistic-galaxy-design)*
 
 
