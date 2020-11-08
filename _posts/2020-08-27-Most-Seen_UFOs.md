@@ -2,7 +2,7 @@
 layout: post
 title: What Will be the Most Seen Shape of UFOs in the Future?
 featured-img: UFO
-categories: Research-Project, UFO, Space
+categories: Research-Project UFO Space
 ---	
 ### Based on real reported UFO sightings  
 
