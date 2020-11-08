@@ -2,7 +2,7 @@
 layout: post
 title: How Changes Have Affected the Powerball Lottery in the USA.
 featured-img: powerball_banner
-categories: Research-Project, Financial, Gambling
+categories: Research-Project Financial Gambling
 ---	
 <div align="center">
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=iNOS-jh1Q9k" target="_blank"><img src="http://img.youtube.com/vi/iNOS-jh1Q9k/0.jpg" alt="IMAGE ALT TEXT HERE" width="560" height="315" border="1" /></a><br>
