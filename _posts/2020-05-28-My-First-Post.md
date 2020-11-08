@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Post
-featured-img: 1st Sprint Challenge Grade
+featured-img: 1st_Sprint_Challenge_Grade
 categories: [Sample, Example of my Talents]
 ---
 
