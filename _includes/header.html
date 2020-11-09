@@ -13,6 +13,19 @@
               <span itemprop="name">{{ item.name }}</span>
             </a>
           {% endfor %}
+          {% for item in site.subnav %}
+            <div class="dropdown">
+              <button class="dropbtn">{{ item.dropname }}
+                <i class="fas fa-angle-down"></i>
+              </button>
+              <div class="dropdown-content">
+                <ul>
+                  {% for item in site.subnav-content %}
+                  <li><a href="{{ item.link | relative_url }}">
+                    <span itemprop="name">{{ item.name }}</span></a>
+              </div>
+            </div>
+          {% endfor %}
         </div>
       </nav>
       <div class="header__toggle">
