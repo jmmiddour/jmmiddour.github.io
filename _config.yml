@@ -21,7 +21,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Completed Projects', link: '/_posts/'}
+  - {name: 'Completed Projects', dropdown: '/_posts/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
   - {name: 'Grades', link: '/my_grades'}
