@@ -21,10 +21,17 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Completed Projects', dropdown: '/_posts/'}
+#   - {name: 'Completed Projects', link: '/_posts/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
   - {name: 'Grades', link: '/my_grades'}
+  
+subnav: 
+  {dropname: 'Completed Projects'}
+  - {name: 'Powerball Changes', link: '_posts/2020-06-25-PB-Changes-Results.md'}
+  - {name: 'UFO Shapes', link: '_posts/2020-08-27-Most-Seen_UFOs.md'}
+  - {name: 'Twitoff', link: 'https://twit-off-jmiddour.herokuapp.com/'}
+  - {name: 'Cannabis Strains API', link: 'https://strains-cannabis.herokuapp.com/'}
   
 tagline: >
   Data Science student at Lambda School since May 4, 2020
