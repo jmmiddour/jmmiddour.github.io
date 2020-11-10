@@ -25,7 +25,7 @@ Most of my completed projects will have a blog post associated with it and those
           <li>Look at our code on <a href="https://github.com/Build-Week-Med-Cabinent-4/data-science" target="_blank">Github</a>.</li>
         </ul>
       </ul>
-</details>
+</details><br>
 
 
 
@@ -42,7 +42,7 @@ Most of my completed projects will have a blog post associated with it and those
           <li>I also have a blog post discussing this project <a href="" target="_blank">here</a></li>
         </ul>
       </ul>
-</details>
+</details><br>
 
 
 
@@ -59,7 +59,9 @@ Most of my completed projects will have a blog post associated with it and those
           <li>I also have it posted on <a href="https://medium.com/@magical_satin_seal_239/what-will-be-the-most-seen-shape-of-ufos-in-the-future-fa5a4f2b5d0e" target="_blank">Medium</a>.</li>
         </ul>
       </ul>
-</details>
+</details><br>
+
+
 
 <details>
   <summary><strong>How Changes have Affected the Powerball Lottery in the USA</strong></summary><br>
@@ -74,7 +76,9 @@ Most of my completed projects will have a blog post associated with it and those
           <li>I also have it posted on <a href="https://medium.com/@magical_satin_seal_239/how-changes-have-affected-the-powerball-lottery-in-the-usa-81d80952a128" target="_blank">Medium</a>.</li>
         </ul>
       </ul>
-</details>
+</details><br>
+
+
 
 > **A note about my website:**  
 
