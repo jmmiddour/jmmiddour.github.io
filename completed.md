@@ -10,7 +10,7 @@ Most of my completed projects will have a blog post associated with it and those
 
 <details>
   <summary><strong>Cannabis Strains API</strong></summary><br>
-    <img style="padding-left: 20px; float: left" src="/assets/img/posts/Cannabis_API_screenshot.jpg" width="100%" height="150"><br>
+    <img style="padding-left: 20px" src="/assets/img/posts/Cannabis_API_screenshot.jpg" width="100%" height="75%"><br>
       <ul>
       <p><em>Completed:</em> October 29, 2020</p>
       <p>This project was the first one where I worked with a team. I was in unit 3 at Lambda at the time and we were tasked with creating the API to connect front end to the database and the predictive NLP model, which was created by our DS unit 4 person. There was 2 DS unit 3 students, 1 DS unit 4 student, and 6 WEB students that participated in the creatation of the entire website.
@@ -31,7 +31,7 @@ Most of my completed projects will have a blog post associated with it and those
 
 <details>
   <summary><strong>Twitoff: A Tweet Predictor</strong></summary><br>
-    <img style="padding-left: 30px; float: left" src="/assets/img/posts/Twit-off_screenshot.jpg" width="100%" height="150"><br>
+    <img style="padding-left: 30px" src="/assets/img/posts/Twit-off_screenshot.jpg" width="100%" height="75%"><br>
       <ul>
       <p><em>Completed:</em> October 10, 2020</p>
       <p>This project was something that we created over a 2 week period within Unit 3 at Lambda. This is something that we worked on as a class and then added our own individual code to in order to personalize it. We used Flask to create the app and basic html code that I later researched and modified. We also deployed this app to Heruko. A lot of this project was working on learning how to debug problems while also learning how to create an app that anyone can access and use.
@@ -48,7 +48,7 @@ Most of my completed projects will have a blog post associated with it and those
 
 <details>
   <summary><strong>What will be the Most Seen Shape of UFOs in the Future</strong></summary><br>
-    <img style="padding-left: 30px src="/assets/img/posts/UFO.jpg" width="100%" height="150"><br>
+    <img style="padding-left: 30px" "src="/assets/img/posts/UFO.jpg" width="100%" height="75%"><br>
     <div>
       <ul>
       <p><em>Completed:</em> August 27, 2020</p>
@@ -65,7 +65,7 @@ Most of my completed projects will have a blog post associated with it and those
 
 <details>
   <summary><strong>How Changes have Affected the Powerball Lottery in the USA</strong></summary><br>
-    <img style="padding-left: 30px; float: left" src="/assets/img/posts/powerball_banner.jpg" width="100%" height="150"><br><br>
+    <img style="padding-left: 30px" src="/assets/img/posts/powerball_banner.jpg" width="100%" height="50%"><br>
       <ul>
       <p><em>Completed:</em> June 25, 2020</p>
       <p>This was the first project I ever did on the path to being a Data Scientist. This was my Unit 1 Build Week project at Lambda. The goal on this project was to put into practice what we have learned for that unit which was Statistics Fundamentals. This unit included learning about data wrangling and storytelling, statistical tests and experiments, and linear algebra. The reason why I chose the Powerball was because I have been curious for a while about how the changes have affected the chances of winning over the years. Some of the data that the research revealed surprised me and there was some that were not very surprising at all.
