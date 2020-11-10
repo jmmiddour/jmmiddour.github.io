@@ -43,9 +43,15 @@ Lambda School does not go by a traditional grading scale.
   - Oct 13, 2020 - Feedback from my Team Lead: "*Hey, I apologize for the late feedback. Things look good here. I'm glad you were able to figure that out. :-)*"
 - **Build Week Project == 3**
   - Oct 25, 2020 - Feedback from my Team Lead: "*Very goood work!*"
+  
+**--> Starting in Unit 4, Lambda endored some changes to the program structure:**
+  - Currently Lambda has made all assignments within a sprint self-graded. We were not able to see the grades on our assignments before, we were just told by our TL (Team Lead) what we got on it.
+  - Lambda also changed the grading for the Sprint Challenges. They are now self graded, but I have voiced my concerns on this and several other students have voiced their concerns as well. We, as students, are trying to get this changed.
+  - During the submission of every assignment and Sprint Challenge there is also an auto-graded quiz we have to do to check for understanding of the content. Then we have to fill out a survey they call a "pulse check" where we self grade ourselves.
+  - As far as my understanding at this moment, the only thing that will be actually graded by an instructor will be the Build Week projects.
 
 ## Unit 4: 
-- **Sprint 1:  == **
-- **Sprint 2:  == **
-- **Sprint 3:  == **
-- **Build Week Project == **
+- **Sprint 1:  ==**
+- **Sprint 2:  ==**
+- **Sprint 3:  ==**
+- **Build Week Project ==**
