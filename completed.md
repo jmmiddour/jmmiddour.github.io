@@ -48,7 +48,7 @@ Most of my completed projects will have a blog post associated with it and those
 
 <details>
   <summary><strong>What will be the Most Seen Shape of UFOs in the Future</strong></summary><br>
-    <img style="padding-left: 30px; float: "left" src="/assets/img/posts/UFO.jpg" width="100%" height="150" overflow: "hidden"><br>
+    <img style="padding-left: 30px; float: "left"; overflow: "hidden" src="/assets/img/posts/UFO.jpg" width="100%" height="150"><br>
       <ul>
       <p><em>Completed:</em> August 27, 2020</p>
       <p>This was my second project on my path to being a Data Scientist. This was my Unit 2 Build Week project at Lambda. The goal on this project was to put into practice what we have learned throughout the unit which was Predicitive Modeling. This unit included learning about linear modeling, how to compete in a Kaggle challenge, and applied modeling. The reason why I chose UFOs was because the reporting of UFOs has always fasinated me. Some of the data that the research revealed surprised me and there was some that were not very surprising at all.
