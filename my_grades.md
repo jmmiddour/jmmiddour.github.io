@@ -9,9 +9,9 @@ I have been attending Lambda School since May 4, 2020.
 Lambda School does not go by a traditional grading scale. 
 
 **Lambda School's grading scale is as follows:**
-- 1 == Needs Improvement
-- 2 == Understands all the Concepts - Met all Expectations
-- 3 == Exceded Expectations - Went Above and Beyond
+- 1 == *Needs Improvement*
+- 2 == *Understands all the Concepts - Met all Expectations*
+- 3 == *Exceded Expectations - Went Above and Beyond*
 
 
 
