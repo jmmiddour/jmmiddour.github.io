@@ -21,12 +21,12 @@ Lambda School does not go by a traditional grading scale.
       <li><strong>Sprint 1: Data Wrangling and Storytelling == 3</strong><br>
       May 17, 2020 - Feedback from my Team Lead: "<em>You hammered home the crosstabs! Good job and I love your use of comments. Some of the code could have been merged into the cell of another, but overall, you crushed it!</em>"</li><br>
       <li><strong>Sprint 2: Statistical Test and Experiments == 3</strong><br>
-      Jun 1, 2020 - Feedback from my Team Lead: "<em>Good job! Code was clean, good and solid. Good job reaching for those stretch goals!</em>"<br>
+      Jun 1, 2020 - Feedback from my Team Lead: "<em>Good job! Code was clean, good and solid. Good job reaching for those stretch goals!</em>"</li><br>
       <li><strong>Sprint 3: Linear Algebra == 3</strong><br>
       Jun 15, 2020 - Feedback from my Team Lead: "<em>Exceeded expectations - Great work! Stretch goals completed and very solid understanding of concepts.</em>"</li><br>
       <li><strong>Build Week Project == 2</strong><br>
       Jun 25, 2020 - Feedback from my Team Lead: "<em>Per Austin - no 3's will be given for this. That said, you met expectations defined in the project in the given time. Your research question was appropriate and the blog matches in a way that is easy to follow. Your visuals are very well done and clearly come from your dataset. Your notebook runs top to bottom without any trouble. All 170+ cells, WOW! And on top of all that, your presentation was fantastic! Great Job!</em>"</li>
-     </ul>
+    </ul>
 </details><br>
 
 
@@ -61,8 +61,10 @@ Lambda School does not go by a traditional grading scale.
       <li><strong>Build Week Project == 3</strong><br>
         Oct 25, 2020 - Feedback from my Team Lead: "<em>Very goood work!</em>"</li>
     </ul>
-</details>
-  
+</details> 
+
+
+
 #### --> Starting in Unit 4, Lambda enforced some changes to the program grading structure:
   - Currently Lambda has made all assignments within a sprint self-graded. We were not able to see the grades on our assignments before, we were just told by our TL (Team Lead) what we got on it.
   - Lambda also changed the grading for the Sprint Challenges. They are now self graded, but I have voiced my concerns on this and several other students have voiced their concerns as well. We, as students, are trying to get this changed.
@@ -72,6 +74,8 @@ Lambda School does not go by a traditional grading scale.
   - Lambda also enforced a Mentor/Mentee Leadership Program
     - In Unit 4 I was a Mentor to a student in Unit 2.
     - In Unit 4 I had a Mentor in the Computer Science unit.
+
+
 
 <details>
   <summary><b>Unit 4: Machine Learning</b></summary><br>
