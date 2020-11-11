@@ -51,8 +51,8 @@ Lambda School does not go by a traditional grading scale.
   <summary><b>Unit 3: Data Engineering</b></summary><br>
     <ul>
       <li><strong>Sprint 1: Software Engineering and Reproducible Research == 2</strong><br>
-        Sept 14, 2020 - Feedback from my Team Lead: "<em>A bit of a rough Sprint Challenge. You passed, but I'd highly recommend studying up on this. Lot's of hard work, more ahead. :-)</em>"<br>
-        <li><strong>Note:</strong><br>This was a difficult Sprint Challenge for me because I was working a lot of hours at my current job and pulling in overtime every chance I was able to. Therefore, I was not able to devote as much time as I needed to study on my own and when I was doing my school work I was extremely exhausted. However, I overcame that challenge in my life, at the time, and was able to pass regardless.</li>
+        Sept 14, 2020 - Feedback from my Team Lead: "<em>A bit of a rough Sprint Challenge. You passed, but I'd highly recommend studying up on this. Lot's of hard work, more ahead. :-)</em>"<br><br>
+        <ul><li><strong>Note:</strong><br>This was a difficult Sprint Challenge for me because I was working a lot of hours at my current job and pulling in overtime every chance I was able to. Therefore, I was not able to devote as much time as I needed to study on my own and when I was doing my school work I was extremely exhausted. However, I overcame that challenge in my life, at the time, and was able to pass regardless.</li></ul>
       </li><br>
       <li><strong>Sprint 2: SQL and Databases == 3</strong><br>
         Sept 28, 2020 - Feedback from my Team Lead: "<em>You took this sprint challenge like a champ! Well done.</em>"</li><br>
