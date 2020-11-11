@@ -63,18 +63,6 @@ Lambda School does not go by a traditional grading scale.
     </ul>
 </details><br>
 
-
-
-#### --> Starting in Unit 4, Lambda enforced some changes to the program grading structure:
-  - Currently Lambda has made all assignments within a sprint self-graded. We were not able to see the grades on our assignments before, we were just told by our TL (Team Lead) what we got on it.
-  - Lambda also changed the grading for the Sprint Challenges. They are now self graded, but I have voiced my concerns on this and several other students have voiced their concerns as well. We, as students, are trying to get this changed.
-  - During the submission of every assignment and Sprint Challenge there is also an auto-graded quiz we have to do to check for understanding of the content. Then we have to fill out a survey they call a "pulse check" where we self grade ourselves.
-  - As far as my understanding at this moment, the only thing that will be actually graded by an instructor will be the Build Week projects.
-  
-  - Lambda also enforced a Mentor/Mentee Leadership Program
-    - In Unit 4 I was a Mentor to a student in Unit 2.
-    - In Unit 4 I had a Mentor in the Computer Science unit.
-
   
   
 <details>
@@ -89,4 +77,16 @@ Lambda School does not go by a traditional grading scale.
       <li><strong>Build Week Project == </strong><br>
       </li><br> -->
     </ul>
-</details>
+</details><br>
+
+
+
+#### > Starting in Unit 4, Lambda enforced some changes to the program grading structure:
+  - Currently Lambda has made all assignments within a sprint self-graded. We were not able to see the grades on our assignments before, we were just told by our TL (Team Lead) what we got on it.
+  - Lambda also changed the grading for the Sprint Challenges. They are now self graded, but I have voiced my concerns on this and several other students have voiced their concerns as well. We, as students, are trying to get this changed.
+  - During the submission of every assignment and Sprint Challenge there is also an auto-graded quiz we have to do to check for understanding of the content. Then we have to fill out a survey they call a "pulse check" where we self grade ourselves.
+  - As far as my understanding at this moment, the only thing that will be actually graded by an instructor will be the Build Week projects.
+  
+  - Lambda also enforced a Mentor/Mentee Leadership Program
+    - In Unit 4 I was a Mentor to a student in Unit 2.
+    - In Unit 4 I had a Mentor in the Computer Science unit.
