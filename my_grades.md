@@ -75,9 +75,9 @@ Lambda School does not go by a traditional grading scale.
     - In Unit 4 I was a Mentor to a student in Unit 2.
     - In Unit 4 I had a Mentor in the Computer Science unit.
 
-
-
-<br><details>
+  
+  
+<details>
   <summary><b>Unit 4: Machine Learning</b></summary><br>
     <ul>
       <li><strong>Sprint 1: Natural Language Processing == No graded yet</strong><br>
