@@ -77,7 +77,7 @@ Lambda School does not go by a traditional grading scale.
 
 
 
-<details>
+<br><details>
   <summary><b>Unit 4: Machine Learning</b></summary><br>
     <ul>
       <li><strong>Sprint 1: Natural Language Processing == No graded yet</strong><br>
