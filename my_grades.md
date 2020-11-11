@@ -61,7 +61,7 @@ Lambda School does not go by a traditional grading scale.
       <li><strong>Build Week Project == 3</strong><br>
         Oct 25, 2020 - Feedback from my Team Lead: "<em>Very goood work!</em>"</li>
     </ul>
-</details> 
+</details><br>
 
 
 
