@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitoff: A Tweet Predictor
+title: Twitoff - A Tweet Predictor
 featured-img: TwitOff_logo
 categories: [Application, Social Media, Predictor, Prediction, Data Engineering]
 ---	
