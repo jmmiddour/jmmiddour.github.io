@@ -22,6 +22,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Completed Projects', link: '/completed'}
+  - {name: 'Categories', link: '/categories'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
   - {name: 'Grades', link: '/my_grades'}
