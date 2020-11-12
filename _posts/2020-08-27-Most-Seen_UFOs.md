@@ -13,6 +13,7 @@ categories: Research-Project UFO Space
 
 ---
 ## Reported UFO Sightings through the Years  
+
 My research started with a data set I found on [Kaggle](https://www.kaggle.com/NUFORC/ufo-sightings?select=scrubbed.csv) with 80,332 observations (rows/sightings) and 11 features (columns). This is data that was collected by the [National UFO Reporting Center (NUFORC)](http://www.nuforc.org/). 
 The original data contained reported sightings for the last century dating back to 1906 up to 2014. However, after examining the data, I found that before 1994 there is not a significant amount of data (as you can see in the graph above). Therefore, the data I will base my predictions on will be from 1994 to 2014.
 
@@ -30,6 +31,7 @@ There are several reasons I can think of that the reported sightings started spi
 
 ---
 ## My Target Feature and why I used it:  
+
 My target feature is a feature I created with data from the shape column. The original shape feature was divided into 30 (including the N/A values) different shapes. I created a feature for shape classes to reduce the dimensionality of the feature target. The classes I created are listed below, along with the original shapes that went into these classes:
 
 
@@ -43,8 +45,9 @@ I decided to use the shape class because of my own curiosity based on how the sh
 
 ---
 ## Some of the Processing I did:  
+
 The very first thing I did was explore my data using the [pandas profile report](https://joannemiddour.com/UFO_pd_profile_report.html).  
-After exploring my data I realized, even though this was a dataset that was already scrapped, there was a lot of cleaning I needed to do prior to being able to do a 3-way split on my data. One of the first things I needed to do was to change the DateTime feature to DateTime format so that I could then split up the date into the year, month, day of the week, and hour.  
+After exploring my data I realized, even though this was a dataset that was already scrapped, there was a lot of cleaning I needed to do prior to being able to do a 3-way split on my data. One of the first things I needed to do was to change the DateTime feature to DateTime format so that I could then split up the date into the year, month, day of the week, and hour. 
 
 Next, it was time to look at the null values. I temporarily replaced all nan values with 0 to make it easier to do the rest of the cleaning I needed to do. I also had a problem value in the latitude feature that was a typo that I needed to fix. I fixed capitalization problems as well.  
 
@@ -59,7 +62,7 @@ Unfortunately, NPL was not as helpful as I was hoping it would be and would have
 
 
 
-![](https://github.com/jmmiddour/jmmiddour.github.io/blob/master/assets/img/posts/Shape_class_by_year.png)  
+![](https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/Shape_class_by_year.png)  
 _This box plot represents if a type of movement was mentioned in the comments for the reported sightings.  
 I grouped them by the year the sighting occurred and what shape class was reported._
 
@@ -67,6 +70,7 @@ I grouped them by the year the sighting occurred and what shape class was report
 
 ---
 ## What are my Baseline Scores?  
+
 I calculated my Baseline score based on the percentage of the majority class frequency in my target feature. The **baseline score** I get is only **31.90%**. This is probably because I have 6 different classes in my target feature. This is to be expected because this was not a binary class.
 
 
@@ -80,6 +84,7 @@ Then I checked what my **accuracy score** would be based on guessing the majorit
 
 ---
 ## Some Logistic Regression:  
+
 Logistic Regression has a deceiving name because it is actually for doing classification problems. It measures the relationship between dependant and independent variables by estimating the probabilities of a prediction. It is best used with binary variables but can be used with more complex multi-class classification variables.  
 
 I used a Logistic Regression model and tuned the hyperparameters. The best result that I was able to obtain was a **Train Accuracy Score** of **31.78%**, which is actually lower than my baseline. My **Validate Accuracy Score** was **31.59%**, which is only slightly better than my baseline. This means there is a very small difference between the Train and Validate Score of only 0.19%. I don’t think I would have been able to get this model to fit any better without overfitting it.
@@ -113,6 +118,7 @@ _A heatmap to display the values from my classification report based on logistic
 
 ---
 ## Accuracy Score with Random Forest Modeling:  
+
 A Random Forest model is a tree-based learning algorithm. It uses a collection of another tree-based algorithm called decision tree for classification and regression problems. I used the Random Forest Classifier since my problem is a multi-class classification problem.
 
 I created a random forest model and did some hyperparameter tuning. After several attempts to get a better model, the results of the best model I got were: **Train Accuracy Score** of **0.3864095825331042 (38.64%)** and **Validate Accuracy Score** of **0.3686444961083594 (36.86%)**. This gives me a **difference** of **only 0.01776508642474478 (1.78%)** between the Train and Validate Scores. I got a lot closer with the difference between scores using the Logistic Regression Model but my accuracy scores were not as high.
@@ -142,6 +148,7 @@ I used the same Random Forest Model to get my permutation feature importances. T
 
 ---
 ## Let’s take a look at some PDP’s (Partial Dependency Plot):  
+
 Since the hour and year were at the top of my permutation feature importances, I decided that I wanted to look at a partial dependency plot to see the relationship between the two in comparison to my target classes.
 
 
@@ -150,10 +157,12 @@ Since the hour and year were at the top of my permutation feature importances, I
 
 ---
 ## Conclusion:  
+
 Although I did not get high accuracy scores based on the model I chose to work with, I did find that the Random Forest model was the best fit for making my predictions. I was actually very surprised that certain features did not hold more weight when predicting the shape of a UFO. I really did enjoy working with this dataset though and I will definitely be working on some other projects using it. To me, it was very interesting to find out that the most reported shape seen was some kind of light. I was under the impression, prior to doing this project, that the most seen shape in North American countries was of the circular type. Although it did rank as a close second.
 
 ---
 ## Resources:  
+
 - Where I found my original dataset: [Kaggle](https://www.kaggle.com/NUFORC/ufo-sightings?select=scrubbed.csv)  
 - Where the data was collected from for the dataset: [National UFO Reporting Center (NUFORC)](http://www.nuforc.org/).  
 - If you would like to see the stats for the original dataset I started with, you can look at my [pandas profile report](https://joannemiddour.com/UFO_pd_profile_report.html).  
