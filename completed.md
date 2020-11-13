@@ -19,7 +19,7 @@ Most of my completed projects will have a blog post associated with it and those
         <ul>
           <li>You can find the project that the DS team created <a href="https://strains-cannabis.herokuapp.com/" target="_blank">here</a>.</li>
           <li>The <a href="https://strains-cannabis.herokuapp.com/redoc" target="_blank">docs</a> for our API.</li>
-          <li>I also have a blog post discussing this project <a href="">here</a>.</li>
+          <li>I also have a blog post discussing this project <a href="https://joannemiddour.com/Cannabis_Strains_API/">here</a>.</li>
           <li>You can also see the completed website that the WEB team created <a href="https://medcabinent.netlify.app/index.html" target="_blank">here</a>.</li>
           <li>If you go to the <a href="https://medcabinent.netlify.app/about.html" target="_blank">"about"</a> page you can see everyone that worked on this project.</li>
           <li>Look at our code on <a href="https://github.com/Build-Week-Med-Cabinent-4/data-science" target="_blank">Github</a>.</li>
