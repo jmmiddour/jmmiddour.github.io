@@ -99,9 +99,9 @@ This project was the first one where I worked with a team. The team consisted of
   <br>
     <hr>
   <br>
-</details>
+</details><br>
 
-## Links:
+#### Links:
 - The API the DS team created: [Cannabis Strains API](https://strains-cannabis.herokuapp.com/)  
 - The [docs for our API](https://strains-cannabis.herokuapp.com/redoc).  
 - The completed website created by the web team: [Med Cabinet](https://medcabinent.netlify.app/index.html)  
