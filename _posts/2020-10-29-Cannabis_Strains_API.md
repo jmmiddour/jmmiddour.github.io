@@ -16,85 +16,87 @@ This project was the first one where I worked with a team. The team consisted of
 <details>
   <summary><strong>How to use our API</strong></summary><br>
   Once you click the <a href="https://strains-cannabis.herokuapp.com/">link</a> to go to our API, you will see the above image. At the top of the page, just below the image, is a link where you can <a href="https://strains-cannabis.herokuapp.com/redoc">view the docs</a> for our API. Our API is simple to navigate. 
-
----
-
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/PostRequest.jpg">  
-  <em>Create a request for a prediction by clicking on the green <b>"POST"</b> button. </em>
-</div><br>
-
----
-
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/TryIt-Post.jpg">  
-  <em>Click on the <b>"Try it out"</b> button.</em>
-</div>
-<br>
-
----
-
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/Execute-Post.jpg">  
-  <em>Replace the string for ailment, flavor, and effects.<br>
-  Ailment is the only required input and has a default value of "stress and insomnia", which you can change.<br>
-    Then click on the <b>"Execute"</b> button</em>
-</div>
-<br>
-
----
-
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/ReponseBody.jpg">  
-</div>  
-<em><b> --> A.</b> Curl request<br>
-    <b> --> B.</b> Request URL<br>
-    <b> --> C.</b> Best matched strain<br>
-    <b> --> D.</b> Next best strain match<br>
-    <b> --> E.</b> Rest of the top 5 matches<br>
-    <b> --> F.</b> Click to down the json file with the results</em>
-<br>
-
----
-
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/Get.jpg">  
-  <em>To get all of the strain data in our database, click the blue <b>"GET"</b> button</em>
-</div>
-<br>
-
----
-
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/TryIt-Get.jpg">  
-  <em>Click the <b>"Try it out"</b> button</em>
-</div>
-<br>
-
----
-
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/Execute-Get.jpg">  
-  <em>Click the blue <b>"Execute"</b> button</em>
-</div>
-<br>
-
----
-
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/ReponseBody-Get.jpg"> 
-</div> 
-<em><b> --> A.</b> Curl request<br>
-    <b> --> B.</b> Request URL<br>
-    <b> --> C.</b> All the strains and information we have in the database.<br>
-    <b> --> D.</b> Click to download all of the strains in our database as a json file.</em>
-<br>
+  <br>
+    <hr>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/PostRequest.jpg">  
+    <em>Create a request for a prediction by clicking on the green <b>"POST"</b> button. </em>
+  </div>
+  <br>
+    <hr>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/TryIt-Post.jpg">  
+    <em>Click on the <b>"Try it out"</b> button.</em>
+  </div>
+  <br>
+    <hr>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/Execute-Post.jpg">  
+      <em>Replace the string for ailment, flavor, and effects.<br>
+      Ailment is the only required input and has a default value of "stress and insomnia", which you can change.<br>
+      Then click on the <b>"Execute"</b> button</em>
+  </div>
+  <br>
+    <hr>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/ReponseBody.jpg">  
+  </div>  
+   <em><b> --> A.</b> Curl request<br>
+       <b> --> B.</b> Request URL<br>
+       <b> --> C.</b> Best matched strain<br>
+       <b> --> D.</b> Next best strain match<br>
+       <b> --> E.</b> Rest of the top 5 matches<br>
+       <b> --> F.</b> Click to down the json file with the results</em>
+  <br>
+    <hr>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/Get.jpg">  
+    <em>To get all of the strain data in our database, click the blue <b>"GET"</b> button</em>
+  </div>
+  <br>
+    <hr>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/TryIt-Get.jpg">  
+    <em>Click the <b>"Try it out"</b> button</em>
+  </div>
+  <br>
+    <hr>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/Execute-Get.jpg">  
+    <em>Click the blue <b>"Execute"</b> button</em>
+  </div>
+  <br>
+    <hr>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/ReponseBody-Get.jpg"> 
+  </div> 
+  <em><b> --> A.</b> Curl request<br>
+      <b> --> B.</b> Request URL<br>
+      <b> --> C.</b> All the strains and information we have in the database.<br>
+      <b> --> D.</b> Click to download all of the strains in our database as a json file.</em>
+  <br>
+    <hr>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/Inputs_schema.jpg">  
+    <em>The inputs schema.</em>
+  </div>
+  <br>
+    <hr>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/Strains_schema.jpg">  
+    <em>The strains schema.</em>
+  </div>
+  <br>
+    <hr>
+  <br>
 </details>
