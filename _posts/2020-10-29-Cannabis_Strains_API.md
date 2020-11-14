@@ -50,7 +50,7 @@ This project was the first one where I worked with a team. The team consisted of
        <b> --> C.</b> Best matched strain<br>
        <b> --> D.</b> Next best strain match<br>
        <b> --> E.</b> Rest of the top 5 matches<br>
-       <b> --> F.</b> Click to down the json file with the results</em>
+       <b> --> F.</b> Click to download the json file with the results</em>
   <br>
     <hr>
   <br>
@@ -93,10 +93,17 @@ This project was the first one where I worked with a team. The team consisted of
     <hr>
   <br>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/Strains_schema.jpg">  
+    <img src="https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/Strains_schema.jpg">
     <em>The strains schema.</em>
   </div>
   <br>
     <hr>
   <br>
 </details>
+
+## Links:
+- The API the DS team created: [Cannabis Strains API](https://strains-cannabis.herokuapp.com/)  
+- The [docs for our API](https://strains-cannabis.herokuapp.com/redoc).  
+- The completed website created by the web team: [Med Cabinet](https://medcabinent.netlify.app/index.html)  
+- You can see everyone that participated in this project: [About page](https://medcabinent.netlify.app/about.html)  
+- Data Science team's completed code on [Github](https://github.com/Build-Week-Med-Cabinent-4/data-science)  
