@@ -9,6 +9,8 @@ ___
 
 Other ways of contacting me include:
 
+* My [LinkedIn Profile](https://www.linkedin.com/in/joanne-middour/)
+
 * I post a majority of my projects on [Medium](https://medium.com/@magical_satin_seal_239 "Joanne Middour - Medium Profile").
 
 * I also have a [Facebook Page](https://www.facebook.com/JoJoMiddour "Joanne Middour - Facebook Profile").
