@@ -25,7 +25,7 @@ navigation: # Navigation links
   - {name: 'Categories', link: '/categories'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
-  - {name: 'Grades', link: '/my_grades'}
+#   - {name: 'Grades', link: '/my_grades'}
   
 # subnav: 
 #   {dropname: 'Completed Projects'}
