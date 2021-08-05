@@ -35,7 +35,7 @@ navigation: # Navigation links
 #   - {name: 'Cannabis Strains API', link: 'https://strains-cannabis.herokuapp.com/'}
   
 tagline: >
-  Data Science student at Lambda School since May 4, 2020
+  Data Science Graduate of Lambda School
 
 hero_img: posts/Color_splash_wide.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
